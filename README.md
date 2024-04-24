@@ -1,7 +1,6 @@
 # Fashion-Product-Recommendation-using-Multimodal
-I'd be glad to provide a comprehensive README file for your multimodal recommender system for fashion products on GitHub, incorporating the best aspects of the previous responses and addressing identified shortcomings:
 
-**Multimodal Fashion Recommender System**
+
 
 # Introduction
 
