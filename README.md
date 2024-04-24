@@ -28,7 +28,7 @@ Sample Product Details:
                              cleaned_text     image  
 4704  proline men navy cream striped polo  7909.jpg  
 
-Recommended images
+# Recommended images
 ![image](https://github.com/SundharessB/Fashion-Product-Recommendation-using-Multimodal/assets/139948283/05a0deb9-b1f0-49f8-9a51-97c364b38184)
 
 
