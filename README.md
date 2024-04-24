@@ -17,6 +17,21 @@ The system is comprised of the following key components:
 * **Feature Concatenation:** The extracted image and text features are combined to create a comprehensive representation of each product, encompassing both visual and textual information.
 * **Similarity Matching:** Cosine similarity is employed to measure the similarity between the combined features of the selected product and those of all other products in the dataset. Products with the highest similarity scores are considered the most relevant recommendations.
 
+# Example
+Sample Product Details:
+        id gender masterCategory subCategory articleType baseColour season  \
+4704  7909    Men        Apparel     Topwear     Tshirts  Navy Blue   Fall   
+
+      year   usage                             productDisplayName  \
+4704  2011  Casual  Proline Men Navy & Cream Striped Polo T-shirt   
+
+                             cleaned_text     image  
+4704  proline men navy cream striped polo  7909.jpg  
+
+Recommended images
+![image](https://github.com/SundharessB/Fashion-Product-Recommendation-using-Multimodal/assets/139948283/05a0deb9-b1f0-49f8-9a51-97c364b38184)
+
+
 # Usage
 
 This code requires Python 3 and several popular libraries, including:
@@ -72,4 +87,3 @@ This multimodal recommender system provides a foundation for building personaliz
 * Exploration of hybrid deep learning models for joint image and text feature extraction.
 
 
-I hope this detailed README provides a clear understanding of the system and its capabilities!
